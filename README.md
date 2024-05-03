@@ -13,9 +13,13 @@
 ***Packages installed***
 
 -Mediapipe.
+
 -cvzone library.
+
 -Opencv-python.
+
 -Tellopy.
+
 -Pillow.
 
 ***Components***
