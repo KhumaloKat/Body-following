@@ -1,19 +1,24 @@
-Body following
-INSTALLATION:
+***Body following***
 
-IDE 
+## FEATURES
+
+-Sending remote controls to the Tello drone without the use of any controller
+
+## INSTALLATION:
+
+***IDE***
 
 -Pycharm Community Edition
 
-Packages installed
+***Packages installed***
 
 -Mediapipe
--cv zone
--opencv-python
+-cvzone library
+-Opencv-python
 -Tellopy
 -Pillow
 
-Components
+***Components***
 
 -DJI Tello drone
 
