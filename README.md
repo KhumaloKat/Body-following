@@ -8,15 +8,15 @@
 
 ***IDE***
 
--Pycharm Community Edition
+-Pycharm Community Edition.
 
 ***Packages installed***
 
--Mediapipe
--cvzone library
--Opencv-python
--Tellopy
--Pillow
+-Mediapipe.
+-cvzone library.
+-Opencv-python.
+-Tellopy.
+-Pillow.
 
 ***Components***
 
