@@ -1,13 +1,14 @@
 Body following
+INSTALLATION:
 
 IDE 
 
--Pycharm community Edition
+-Pycharm Community Edition
 
 Packages installed
 
 -Mediapipe
--cvzone
+-cv zone
 -opencv-python
 -Tellopy
 -Pillow
@@ -15,7 +16,7 @@ Packages installed
 Components
 
 -DJI Tello drone
--Personal Computer
+
 
 
 
