@@ -2,7 +2,8 @@
 
 ## FEATURES
 
--Sending remote controls to the Tello drone without the use of any controller
+-Sending remote controls to the Tello drone without the use of any controller.
+-Using body tracking to control the Tello drone
 
 ## INSTALLATION:
 
