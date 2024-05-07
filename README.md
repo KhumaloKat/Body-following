@@ -30,9 +30,9 @@
 
 ***HOW IT WORKS***
 
-- Firstly, by using the tellopy library you can enable the drone and send the remote controls to it by connecting your WLAN to the DJI Tello drone.
+- Firstly, by using the Tellopy library you can enable the drone and send the remote controls to it by connecting your WLAN to the DJI Tello drone.
 - Important functions that should be enabled on the Tello drone are the stream functions, which enable you to use the live feed camera on the Tello for Pose detection and body  detection using media-pipe and reading all the components needed for the implementation of this project which are the Z value, X value, and Y.
-- The drone detects the face and creates a box that covers all the features that identify as face features(*in simple terms*) and sets the middle of your body as the midpoint in this case your abdomen.
+- The drone detects the face and creates a box that covers all the features that identify as body features(*in simple terms*) and sets the middle of your body as the midpoint in this case your abdomen.
 - To activate the drone for movement the distance between your left and right hands needs to be close to your shoulders making a cross sign.
 - and to deactivate the drone from movement, the distance between your left and right hands needs to be close to your shoulders making a cross sign.
 - For the X value, it detects the change that happens horizontally
